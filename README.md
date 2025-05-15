@@ -22,7 +22,6 @@ Este repositório contém:
 - ✅ Implementação do padrão **Page Object Model**
 - ✅ Testes de funcionalidades reais como login, cadastro e validações
 - ✅ Validações com uso de **mensagens dinâmicas**
-- ✅ Uso de **Faker** para gerar dados aleatórios e confiáveis
 - ✅ Boas práticas de organização de testes
 
 ---
